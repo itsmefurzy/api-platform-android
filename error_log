@@ -1,0 +1,88 @@
+[26-Dec-2018 04:45:30 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/fazilmua/public_html/blogapp/connection.php on line 7
+[26-Dec-2018 04:45:33 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/fazilmua/public_html/blogapp/connection.php on line 7
+[26-Dec-2018 04:45:36 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/fazilmua/public_html/blogapp/connection.php on line 7
+[26-Dec-2018 23:14:55 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/fazilmua/public_html/blogapp/list_comment.php on line 10
+[26-Dec-2018 23:14:55 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/fazilmua/public_html/blogapp/list_comment.php on line 10
+[26-Dec-2018 23:14:57 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/fazilmua/public_html/blogapp/list_search.php on line 20
+[26-Dec-2018 23:14:57 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/fazilmua/public_html/blogapp/list_search.php on line 20
+[26-Dec-2018 23:14:59 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/fazilmua/public_html/blogapp/peta.php on line 7
+[26-Dec-2018 23:14:59 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/fazilmua/public_html/blogapp/peta.php on line 19
+[26-Dec-2018 23:14:59 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/fazilmua/public_html/blogapp/peta.php on line 7
+[26-Dec-2018 23:14:59 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/fazilmua/public_html/blogapp/peta.php on line 19
+[26-Dec-2018 23:15:00 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/fazilmua/public_html/blogapp/raw.php on line 7
+[26-Dec-2018 23:15:00 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/fazilmua/public_html/blogapp/raw.php on line 19
+[26-Dec-2018 23:15:00 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/fazilmua/public_html/blogapp/raw.php on line 7
+[26-Dec-2018 23:15:00 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/fazilmua/public_html/blogapp/raw.php on line 19
+[27-Dec-2018 04:14:09 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/fazilmua/public_html/blogapp/list_comment.php on line 10
+[27-Dec-2018 04:14:10 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/fazilmua/public_html/blogapp/list_comment.php on line 10
+[27-Dec-2018 04:14:11 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/fazilmua/public_html/blogapp/list_search.php on line 20
+[27-Dec-2018 04:14:12 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/fazilmua/public_html/blogapp/list_search.php on line 20
+[27-Dec-2018 04:14:13 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/fazilmua/public_html/blogapp/peta.php on line 7
+[27-Dec-2018 04:14:13 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/fazilmua/public_html/blogapp/peta.php on line 19
+[27-Dec-2018 04:14:14 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/fazilmua/public_html/blogapp/peta.php on line 7
+[27-Dec-2018 04:14:14 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/fazilmua/public_html/blogapp/peta.php on line 19
+[27-Dec-2018 04:14:14 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/fazilmua/public_html/blogapp/raw.php on line 7
+[27-Dec-2018 04:14:14 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/fazilmua/public_html/blogapp/raw.php on line 19
+[27-Dec-2018 04:14:15 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/fazilmua/public_html/blogapp/raw.php on line 7
+[27-Dec-2018 04:14:15 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/fazilmua/public_html/blogapp/raw.php on line 19
+[28-Dec-2018 04:56:28 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/fazilmua/public_html/blogapp/list_comment.php on line 10
+[28-Dec-2018 04:56:28 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/fazilmua/public_html/blogapp/list_comment.php on line 10
+[28-Dec-2018 14:57:01 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/fazilmua/public_html/blogapp/peta.php on line 7
+[28-Dec-2018 14:57:01 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/fazilmua/public_html/blogapp/peta.php on line 19
+[29-Dec-2018 05:09:58 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/fazilmua/public_html/blogapp/raw.php on line 7
+[29-Dec-2018 05:09:58 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/fazilmua/public_html/blogapp/raw.php on line 19
+[29-Dec-2018 05:10:01 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/fazilmua/public_html/blogapp/peta.php on line 7
+[29-Dec-2018 05:10:01 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/fazilmua/public_html/blogapp/peta.php on line 19
+[29-Dec-2018 05:10:33 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/fazilmua/public_html/blogapp/list_search.php on line 20
+[29-Dec-2018 05:11:02 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/fazilmua/public_html/blogapp/list_comment.php on line 10
+[31-Dec-2018 10:08:59 Asia/Jakarta] PHP Warning:  file_put_contents(/home/fazilmua/public_html/BlogApp/images/311220185c29884bcec30.png): failed to open stream: No such file or directory in /home/fazilmua/public_html/blogapp/create_content.php on line 29
+[31-Dec-2018 10:09:26 Asia/Jakarta] PHP Warning:  file_put_contents(/home/fazilmua/public_html/BlogApp/images/311220185c2988669a5dc.png): failed to open stream: No such file or directory in /home/fazilmua/public_html/blogapp/create_content.php on line 29
+[31-Dec-2018 10:09:55 Asia/Jakarta] PHP Warning:  file_put_contents(/home/fazilmua/public_html/BlogApp/images/311220185c298883686dc.png): failed to open stream: No such file or directory in /home/fazilmua/public_html/blogapp/create_content.php on line 29
+[31-Dec-2018 11:32:39 Asia/Jakarta] PHP Warning:  file_put_contents(/home/fazilmua/public_html/BlogApp/images/311220185c299be7bd3d3.png): failed to open stream: No such file or directory in /home/fazilmua/public_html/blogapp/create_content.php on line 29
+[31-Dec-2018 11:33:25 Asia/Jakarta] PHP Warning:  file_put_contents(/home/fazilmua/public_html/BlogApp/images/311220185c299c155f254.png): failed to open stream: No such file or directory in /home/fazilmua/public_html/blogapp/create_content.php on line 29
+[02-Jan-2019 08:48:33 Asia/Jakarta] PHP Warning:  file_put_contents(/home/fazilmua/public_html/BlogApp/images/020120195c2c1871d8100.png): failed to open stream: No such file or directory in /home/fazilmua/public_html/blogapp/create_content.php on line 29
+[08-Jan-2019 15:05:46 Asia/Jakarta] PHP Warning:  file_put_contents(/home/fazilmua/public_html/BlogApp/images/080120195c3459dac3347.png): failed to open stream: No such file or directory in /home/fazilmua/public_html/blogapp/create_content.php on line 29
+[09-Jan-2019 10:23:30 Asia/Jakarta] PHP Warning:  file_put_contents(/home/fazilmua/public_html/BlogApp/images/090120195c3569320afe3.png): failed to open stream: No such file or directory in /home/fazilmua/public_html/blogapp/create_content.php on line 29
+[14-Jan-2019 15:28:04 Asia/Jakarta] PHP Warning:  mysqli_query() expects parameter 2 to be string, object given in /home/fazilmua/public_html/blogapp/logingoogle.php on line 13
+[14-Jan-2019 15:29:03 Asia/Jakarta] PHP Warning:  mysqli_query() expects parameter 2 to be string, object given in /home/fazilmua/public_html/blogapp/logingoogle.php on line 14
+[14-Jan-2019 15:30:09 Asia/Jakarta] PHP Warning:  mysqli_query() expects parameter 2 to be string, object given in /home/fazilmua/public_html/blogapp/logingoogle.php on line 14
+[14-Jan-2019 15:31:43 Asia/Jakarta] PHP Warning:  mysqli_query() expects parameter 2 to be string, object given in /home/fazilmua/public_html/blogapp/logingoogle.php on line 14
+[14-Jan-2019 15:32:31 Asia/Jakarta] PHP Warning:  mysqli_query() expects parameter 2 to be string, object given in /home/fazilmua/public_html/blogapp/logingoogle.php on line 14
+[31-Jan-2019 21:22:13 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/fazilmua/public_html/blogapp/peta.php on line 7
+[31-Jan-2019 21:22:13 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/fazilmua/public_html/blogapp/peta.php on line 19
+[04-Feb-2019 10:19:24 Asia/Jakarta] PHP Warning:  mysqli_fetch_row() expects parameter 1 to be mysqli_result, boolean given in /home/fazilmua/public_html/blogapp/login.php on line 12
+[04-Feb-2019 10:19:26 Asia/Jakarta] PHP Warning:  mysqli_fetch_row() expects parameter 1 to be mysqli_result, boolean given in /home/fazilmua/public_html/blogapp/login.php on line 12
+[04-Feb-2019 10:19:26 Asia/Jakarta] PHP Warning:  mysqli_fetch_row() expects parameter 1 to be mysqli_result, boolean given in /home/fazilmua/public_html/blogapp/login.php on line 12
+[04-Feb-2019 10:19:26 Asia/Jakarta] PHP Warning:  mysqli_fetch_row() expects parameter 1 to be mysqli_result, boolean given in /home/fazilmua/public_html/blogapp/login.php on line 12
+[04-Feb-2019 10:19:27 Asia/Jakarta] PHP Warning:  mysqli_fetch_row() expects parameter 1 to be mysqli_result, boolean given in /home/fazilmua/public_html/blogapp/login.php on line 12
+[04-Feb-2019 10:19:27 Asia/Jakarta] PHP Warning:  mysqli_fetch_row() expects parameter 1 to be mysqli_result, boolean given in /home/fazilmua/public_html/blogapp/login.php on line 12
+[04-Feb-2019 10:19:44 Asia/Jakarta] PHP Warning:  mysqli_fetch_row() expects parameter 1 to be mysqli_result, boolean given in /home/fazilmua/public_html/blogapp/login.php on line 12
+[04-Feb-2019 10:19:45 Asia/Jakarta] PHP Warning:  mysqli_fetch_row() expects parameter 1 to be mysqli_result, boolean given in /home/fazilmua/public_html/blogapp/login.php on line 12
+[04-Feb-2019 10:19:45 Asia/Jakarta] PHP Warning:  mysqli_fetch_row() expects parameter 1 to be mysqli_result, boolean given in /home/fazilmua/public_html/blogapp/login.php on line 12
+[04-Feb-2019 10:19:46 Asia/Jakarta] PHP Warning:  mysqli_fetch_row() expects parameter 1 to be mysqli_result, boolean given in /home/fazilmua/public_html/blogapp/login.php on line 12
+[04-Feb-2019 10:19:46 Asia/Jakarta] PHP Warning:  mysqli_fetch_row() expects parameter 1 to be mysqli_result, boolean given in /home/fazilmua/public_html/blogapp/login.php on line 12
+[04-Feb-2019 10:19:46 Asia/Jakarta] PHP Warning:  mysqli_fetch_row() expects parameter 1 to be mysqli_result, boolean given in /home/fazilmua/public_html/blogapp/login.php on line 12
+[04-Feb-2019 10:19:46 Asia/Jakarta] PHP Warning:  mysqli_fetch_row() expects parameter 1 to be mysqli_result, boolean given in /home/fazilmua/public_html/blogapp/login.php on line 12
+[04-Feb-2019 10:19:47 Asia/Jakarta] PHP Warning:  mysqli_fetch_row() expects parameter 1 to be mysqli_result, boolean given in /home/fazilmua/public_html/blogapp/login.php on line 12
+[04-Feb-2019 10:19:47 Asia/Jakarta] PHP Warning:  mysqli_fetch_row() expects parameter 1 to be mysqli_result, boolean given in /home/fazilmua/public_html/blogapp/login.php on line 12
+[04-Feb-2019 10:19:47 Asia/Jakarta] PHP Warning:  mysqli_fetch_row() expects parameter 1 to be mysqli_result, boolean given in /home/fazilmua/public_html/blogapp/login.php on line 12
+[04-Feb-2019 10:19:48 Asia/Jakarta] PHP Warning:  mysqli_fetch_row() expects parameter 1 to be mysqli_result, boolean given in /home/fazilmua/public_html/blogapp/login.php on line 12
+[04-Feb-2019 10:19:48 Asia/Jakarta] PHP Warning:  mysqli_fetch_row() expects parameter 1 to be mysqli_result, boolean given in /home/fazilmua/public_html/blogapp/login.php on line 12
+[04-Feb-2019 10:19:49 Asia/Jakarta] PHP Warning:  mysqli_fetch_row() expects parameter 1 to be mysqli_result, boolean given in /home/fazilmua/public_html/blogapp/login.php on line 12
+[04-Feb-2019 10:38:17 Asia/Jakarta] PHP Warning:  mysqli_fetch_row() expects parameter 1 to be mysqli_result, boolean given in /home/fazilmua/public_html/blogapp/login.php on line 12
+[19-Feb-2019 15:49:28 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/fazilmua/public_html/blogapp/list_search.php on line 20
+[19-Feb-2019 15:51:32 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/fazilmua/public_html/blogapp/list_search.php on line 20
+[19-Feb-2019 15:52:13 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/fazilmua/public_html/blogapp/list_search.php on line 20
+[19-Feb-2019 15:52:21 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/fazilmua/public_html/blogapp/list_search.php on line 20
+[20-Feb-2019 10:02:54 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/fazilmua/public_html/blogapp/list_search.php on line 19
+[20-Feb-2019 10:04:09 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/fazilmua/public_html/blogapp/list_search.php on line 19
+[20-Feb-2019 10:04:09 Asia/Jakarta] PHP Warning:  mysqli_query() expects parameter 3 to be long, string given in /home/fazilmua/public_html/blogapp/list_search.php on line 45
+[20-Feb-2019 10:04:09 Asia/Jakarta] PHP Warning:  mysqli_fetch_object() expects parameter 1 to be mysqli_result, null given in /home/fazilmua/public_html/blogapp/list_search.php on line 47
+[20-Feb-2019 10:04:59 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/fazilmua/public_html/blogapp/list_search.php on line 19
+[20-Feb-2019 10:05:03 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/fazilmua/public_html/blogapp/list_search.php on line 19
+[20-Feb-2019 10:05:55 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/fazilmua/public_html/blogapp/list_search.php on line 19
+[20-Feb-2019 10:05:55 Asia/Jakarta] PHP Warning:  mysqli_fetch_object() expects parameter 1 to be mysqli_result, boolean given in /home/fazilmua/public_html/blogapp/list_search.php on line 47
+[20-Feb-2019 10:07:14 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/fazilmua/public_html/blogapp/list_search.php on line 19
+[20-Feb-2019 10:11:44 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/fazilmua/public_html/blogapp/list_search.php on line 19
+[22-Feb-2019 17:39:44 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/fazilmua/public_html/blogapp/raw.php on line 7
+[22-Feb-2019 17:39:44 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/fazilmua/public_html/blogapp/raw.php on line 19
